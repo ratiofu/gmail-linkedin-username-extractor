@@ -1,0 +1,10 @@
+bandit
+beautifulsoup4
+black
+flake8
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+isort
+pre-commit
+radon

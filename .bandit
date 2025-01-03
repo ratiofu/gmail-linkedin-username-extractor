@@ -1,0 +1,3 @@
+exclude_dirs: ['tests', 'docs']
+confidence: ['HIGH', 'MEDIUM']
+skips: ['B101']
